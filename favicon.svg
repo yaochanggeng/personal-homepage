@@ -1,14 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#e2e9d9" />
-  <text
-    x="10"
-    y="43"
-    font-family="Georgia,serif"
-    font-size="35"
-    font-weight="bold"
-    letter-spacing="-3"
-    fill="#324932"
-  >
-    yc.
-  </text>
+  <defs>
+    <linearGradient id="a" x2="1" y2="1">
+      <stop stop-color="#c8acff" />
+      <stop offset="1" stop-color="#829aff" />
+    </linearGradient>
+  </defs>
+  <rect
+    x="2"
+    y="2"
+    width="60"
+    height="60"
+    rx="17"
+    fill="#11121e"
+    stroke="#696080"
+    stroke-width="2"
+  />
+  <path
+    d="m17 21 8 16m9-16L22 47m25-22c-14-6-18 15-2 13"
+    fill="none"
+    stroke="url(#a)"
+    stroke-width="5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="46" cy="45" r="3" fill="#b4a1ff" />
 </svg>
