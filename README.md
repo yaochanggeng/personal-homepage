@@ -4,6 +4,14 @@
 
 包含简介、项目展示、GitHub 链接和明暗模式切换，适配手机和电脑。
 
+## 在线访问
+
+个人主页：<https://yaochanggeng-homepage.endearingamity16.chatgpt.site>
+
+网站由 Sites 托管，任何拿到链接的人都可以访问。GitHub 仓库继续保持私有。
+
+GitHub 中的代码修改不会自动更新线上网站；修改后需要同步最新页面文件并重新部署。
+
 ## 在电脑上查看
 
 双击 `index.html`，用浏览器打开即可。无需安装依赖，也不需要构建。
@@ -63,7 +71,7 @@ git config user.email "你的 GitHub 提交邮箱"
 
 - 仓库：<https://github.com/yaochanggeng/personal-homepage>
 - 此项目保存在私有仓库，代码仅自己和获邀成员可访问。
-- 创建 GitHub 仓库与公开发布网站是两件事。本项目默认供本地预览，未配置公开网站部署。
+- 本项目的网页已通过 Sites 公开发布，仓库代码继续保持私有。
 - 不要把密码、API 密钥或不打算分享的个人信息提交到仓库。
 
 ## 技术
