@@ -21,6 +21,24 @@
 
 ## 练习一次修改与提交
 
+### 直接在 GitHub 网页中修改
+
+1. 在仓库的 **Code** 页面打开 `index.html`。
+2. 点击右上角的铅笔图标（Edit this file）。
+3. 找到“欢迎来到我的个人主页”，改成一句自己的介绍。
+4. 点击 **Commit changes**，填写修改说明并确认，改动就会保存在仓库中。
+
+### 在电脑上使用 Git 修改
+
+先完成本机 Git 的 GitHub 登录，然后在另一个空目录中克隆仓库：
+
+```sh
+git clone https://github.com/yaochanggeng/personal-homepage.git
+cd personal-homepage
+```
+
+在克隆得到的文件夹中进行以下操作：
+
 1. 在 `index.html` 中找到“欢迎来到我的个人主页”，改成一句自己的介绍。
 2. 保存文件，刷新浏览器查看效果。
 3. 在这个项目文件夹打开终端，依次执行：
