@@ -6,11 +6,13 @@
 
 ## 在线访问
 
-个人主页：<https://yaochanggeng-homepage.endearingamity16.chatgpt.site>
+个人主页：<https://yaochanggeng.github.io/personal-homepage/>
 
-网站由 Sites 托管，任何拿到链接的人都可以访问。GitHub 仓库继续保持私有。
+网站由 GitHub Pages 托管，任何人都可以通过链接访问。代码仓库已公开。
 
-GitHub 中的代码修改不会自动更新线上网站；修改后需要同步最新页面文件并重新部署。
+发布源为 `main` 分支的根目录。在 GitHub 提交网页修改后，GitHub Pages 会自动重新部署；通常需要等待几分钟。
+
+之前通过 Sites 发布的页面保留为旧版本：<https://yaochanggeng-homepage.endearingamity16.chatgpt.site>，它不会随 GitHub 提交自动更新。
 
 ## 在电脑上查看
 
@@ -70,8 +72,8 @@ git config user.email "你的 GitHub 提交邮箱"
 ## 仓库与访问
 
 - 仓库：<https://github.com/yaochanggeng/personal-homepage>
-- 此项目保存在私有仓库，代码仅自己和获邀成员可访问。
-- 本项目的网页已通过 Sites 公开发布，仓库代码继续保持私有。
+- 此项目保存在公开仓库，任何人均可查看代码。
+- 本项目的当前网页通过 GitHub Pages 公开发布。
 - 不要把密码、API 密钥或不打算分享的个人信息提交到仓库。
 
 ## 技术
