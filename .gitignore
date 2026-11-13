@@ -1,0 +1,14 @@
+# 本机配置和凭据
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 编辑器、依赖与系统文件
+.vscode/
+.idea/
+node_modules/
+Thumbs.db
+.DS_Store
+*.log
